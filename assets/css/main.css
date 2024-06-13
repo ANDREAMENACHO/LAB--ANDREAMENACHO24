@@ -2465,7 +2465,7 @@ input, select, textarea {
 		}
 
 		table thead {
-			border-bottom: solid 2px rgba(143, 246, 237, 0.1);
+			border-bottom: solid 2px rgba(212, 212, 255, 0.1);
 		}
 
 		table tfoot {
@@ -2541,7 +2541,7 @@ input, select, textarea {
 		button:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 2px #9bf1ff;
+			box-shadow: inset 0 0 0 2px #78f1dd;
 			color: #9bf1ff;
 		}
 
