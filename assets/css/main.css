@@ -2541,7 +2541,7 @@ input, select, textarea {
 		button:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 2px #78f1dd;
+			box-shadow: inset 0 0 0 2px #9bf1ff;
 			color: #9bf1ff;
 		}
 
@@ -2685,7 +2685,7 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:hover,
 			.button.primary:active {
-				background-color: #b4f2b1;
+				background-color: #9bf1ff;
 				color: #dd8dc7 !important;
 			}
 
@@ -2831,15 +2831,15 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #beeeff;
+				background-color: #6fc3df;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #cbc1ff;
+				background-color: #8d82c4;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #beeeff;
+				background-color: #ec8d81;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #eb98bc;
 		}
 
 			.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #ffcaf1df;
+				background-color: #333856;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3618,7 +3618,7 @@ input, select, textarea {
 
 		#main.alt {
 			background-color: transparent;
-			border-bottom: solid 1px rgba(97, 228, 235, 0.43);
+			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
 
 /* Contact */
