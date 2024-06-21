@@ -160,7 +160,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #e0f198 !important;
+			color: #e8d8c0 !important;
 		}
 
 		a:active {
@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #eb98bc;
+			background-color: #d4d3d3;
 		}
 
 			.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+			background-color: #f4d7ee;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3114,7 +3114,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #2a2f4a;
+			background-color: #cbc1b9;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3145,7 +3145,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #242943;
+				color: #ffffff;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3153,11 +3153,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #9bf1ff;
+				background-color: #d8d6d3;
 			}
 
 			#header .logo:active strong {
-				background-color: #53e3fb;
+				background-color: #f1e3ca;
 			}
 
 		#header nav {
@@ -3267,7 +3267,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ebc3ed;
+				color: #e8cde;
 			}
 
 			#header.alt.style4 .logo strong {
@@ -3495,15 +3495,15 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #cbc1b9;
 		}
 
 		#banner.style3:after {
-			background-color: #ec8d81;
+			background-color: #cbc1b9;
 		}
 
 		#banner.style4:after {
-			background-color: #e7b788;
+			background-color: #cbc1b9;
 		}
 
 		#banner.style5:after {
@@ -3589,7 +3589,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #cbc1b9;
+		background-color: #e8cde3;
 	}
 
 		#main > * {
